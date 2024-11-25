@@ -16,7 +16,7 @@ export default function HeroSection(){
                     height={300}/>
             </div>
             <div className="md:w-3/5 md:mt-2">
-                <h1 className="font-bold text-4xl mt-6 text-teal-600 md:mt-0">Hello, I'm Alec!</h1>
+                <h1 className="font-bold text-4xl mt-6 text-teal-600 md:mt-0">Hello, I&apos;m Alec!</h1>
                 <p className="text-lg mt-4 mb-6 md:text-2xl">
                     I am a software engineer based out of the U.S. Working towards creating applications that help our 4 legged friends, as well as organizational applications.
                 </p>
