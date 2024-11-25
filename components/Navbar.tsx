@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import React, { useState } from 'react';
 import { Link } from "react-scroll/modules";
 import { RiMoonFill, RiSunLine } from "react-icons/ri";
